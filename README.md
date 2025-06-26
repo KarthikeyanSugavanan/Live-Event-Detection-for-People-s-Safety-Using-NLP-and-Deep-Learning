@@ -8,7 +8,7 @@
 [![Paper](https://img.shields.io/badge/IEEE-Published-red.svg)](https://ieeexplore.ieee.org/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-96.6%25-brightgreen.svg)]()
 
-## 📖 Overview
+## 📖 Overviews
 
 This project implements an intelligent **real-time threat detection system** that analyzes environmental audio to identify dangerous situations and automatically alerts emergency contacts. Using advanced NLP and Deep Learning techniques, the system achieves **96.6% accuracy** with **2.3-second response time** for critical safety applications.
 
